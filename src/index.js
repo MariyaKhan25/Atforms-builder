@@ -3,10 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Homepage from './components/Homepage';
+import Login from './Login';
+import Dashboard from'./Dashboard';
+import Userdashboard1 from'./Userdashboard1';
+import Userdashboard2 from './Userdashboard2';
+import Userdashboard3 from './Userdashboard3';
+import Userdashboard4 from './Userdashboard4';
+import Userdashboard5 from './Userdashboard5';
+import Userdashboard6 from './Userdashboard6';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Userdashboard6 />
   </React.StrictMode>,
   document.getElementById('root')
 );

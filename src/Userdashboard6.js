@@ -29,34 +29,72 @@ export default function Userdashboard6() {
                             </div>
 
                             <div className='FormContainer h-75'>
-                                <div className='row px-3'>
-                                    <div className='col'>
+                                <div className='row pt-1 mx-1'>
+                                    <div className='col-6'>
                                         <label for="exampleFormControlInput1" className="form-label">1. Personal Information collection</label>
-                               <hr />
                                     </div>
-                                </div>
-                                <div className='row px-3'>
-                                    <div className='col'>
-                                        <label for="exampleFormControlInput1" className="form-label">2. Collect Customer Data</label>
-                                   <hr />
+                                    <div className="col-2 px-1">
+                                        <p>View Data</p>
                                     </div>
+                                    <div className="col-2 px-1">
+                                        <p>Export Data</p>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>Delete Form</p>
+                                    </div>
+                                    <hr />
                                 </div>
-                                <div className="row px-3">
-                                    <div className="col">
-                                        <label for="exampleFormControlInput1" className="form-label">3. Collect Survey Data</label>
 
-                                   <hr />
+                                <div className='row pt-1 mx-1'>
+                                    <div className='col-6'>
+                                        <label for="exampleFormControlInput1" className="form-label">2. Collect Customer Data</label>
                                     </div>
+                                    <div className="col-2 px-1">
+                                        <p>View Data</p>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>Export Data</p>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>Delete Form</p>
+                                    </div>
+                                    <hr />
                                 </div>
-                                <div className="row px-3">
-                                    <div className="col pt-0 mt-0">
+                                <div className="row pt-1 mx-1">
+                                    <div className="col-6">
+                                        <label for="exampleFormControlInput1" className="form-label">3. Collect Survey Data</label>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>View Data</p>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>Export Data</p>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>Delete Form</p>
+                                    </div>
+                                    <hr />
+                                </div>
+
+                                <div className="row mx-1">
+                                    <div className="col">
                                         <label for="exampleFormControlInput1" className="form-label">4. Job Application for Java Developer</label>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>View Data</p>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>Export Data</p>
+                                    </div>
+                                    <div className="col-2 px-1">
+                                        <p>Delete Form</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
                 <div className='row'>
                     <div className='col'>
                         <Footer />
@@ -64,6 +102,5 @@ export default function Userdashboard6() {
                 </div>
             </div>
         </div>
-
-    );
+   );
 }

@@ -71,10 +71,12 @@ height: 100vh;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px; 
   height: auto;
+  
   }
 .FormContainer{
   background-color: #232523;
   height: auto;
+  
   font-size:15px ;
   color: white;
   border-bottom-right-radius:10px;
@@ -101,9 +103,8 @@ border-radius: 10px;
   margin-right: 50px;
   margin-top :40px;
  }
-  .content{
-  
-   /* /* background-color:rgb(235, 230, 230);   */
+  .content  p:hover{
+  background:linear-gradient(to right,rgb(97, 94, 94),rgb(116, 112, 112),rgb(119, 115, 115),rgb(204,190,190)); 
   padding: 50px;
   font-size:20px; 
 }
@@ -115,6 +116,7 @@ border-radius: 10px;
   border-width:3px;
   border-style:solid;
   border-color: #e8ebe8; 
+  padding: auto;
  }
  .btton{
    border-radius: 20px;

@@ -84,9 +84,12 @@ export default function Userdashboard4() {
                                     <hr />
                                 </div>
                             </div>
-                            <div className='row py-3'>
-                                <div className='col d-flex justify-content-center'>
-                                    <button type="button" className="btn btn-secondary">Create Link and Publish</button>
+                            <div className='row mb-3 pb-5 d-flex justify-content-center'>
+                                <div className='col-6 d-flex justify-content-center'>
+                                    <button type="button" className="btn btn-secondary">Back</button>
+                                </div>
+                                <div className="col-6">
+                                    <button type="button" className="btn btn-secondary">Create Link And publish</button>
                                 </div>
                             </div>
                         </div>

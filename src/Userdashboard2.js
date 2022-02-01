@@ -61,35 +61,17 @@ export default function Userdashboard2() {
                                     <div class="form-check">
                                         <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
                                         <label class="form-check-label" for="exampleRadios2">
-                                            Radio button
-                                        </label>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className='row ms-3'>
-                                <div className='col-6'>
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
-                                        <label class="form-check-label" for="exampleRadios2">
-                                            Date
-                                        </label>
-                                    </div>
-                                </div>
-                                <div className='col-6'>
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
-                                        <label class="form-check-label" for="exampleRadios2">
-                                            Drop Down Menu
-                                        </label>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className='row ms-3'>
-                                <div className='col-6'>
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
-                                        <label class="form-check-label" for="exampleRadios2">
                                             Check Box
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className='row ms-3'>
+                                <div className='col-6'>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
+                                        <label class="form-check-label" for="exampleRadios2">
+                                            Radio Button
                                         </label>
                                     </div>
                                 </div>
@@ -107,7 +89,25 @@ export default function Userdashboard2() {
                                     <div class="form-check">
                                         <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
                                         <label class="form-check-label" for="exampleRadios2">
+                                            Date
+                                        </label>
+                                    </div>
+                                </div>
+                                <div className='col-6'>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
+                                        <label class="form-check-label" for="exampleRadios2">
                                             Long Input Text
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className='row ms-3'>
+                                <div className='col-6'>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" />
+                                        <label class="form-check-label" for="exampleRadios2">
+                                            Drop Down Menu
                                         </label>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@ export default function Userdashboard2() {
                                 </div>
                             </div>
                            
-                           <div className='row'>
+                           <div className='row mt-5'>
                                <div className='col'>
                                    <hr />
                                </div>
@@ -126,8 +126,7 @@ export default function Userdashboard2() {
 
                             <div className='row py-5'>
                                 <div className='col d-flex justify-content-center'>
-                                    <button type="button" className="btn btn-secondary">Save and Create Form</button>
-
+                                    <button type="button" className="btn btn-secondary">Save and Continue</button>
                                 </div>
                             </div>
                         </div>

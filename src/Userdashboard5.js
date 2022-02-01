@@ -50,7 +50,7 @@ export default function Userdashboard5() {
                                 <div className='col-3 d-flex justify-content-center'>
                                     <button type="button" className="btn btn-secondary">Save Link </button>
                                 </div>
-                                <div className="col-3 d-flex justify-content-center">
+                               <div className="col-3 d-flex justify-content-center">
                                     <button type="button" className="btn btn-secondary">Publish Now</button>
                                 </div>
                             </div>

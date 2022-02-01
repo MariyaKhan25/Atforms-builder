@@ -76,7 +76,7 @@ export default function Userdashboard6() {
                                     <hr />
                                 </div>
 
-                                <div className="row mx-1">
+                                <div className="row mx-1 mb-3">
                                     <div className="col">
                                         <label for="exampleFormControlInput1" className="form-label">4. Job Application for Java Developer</label>
                                     </div>

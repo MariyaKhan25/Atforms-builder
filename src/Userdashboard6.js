@@ -21,7 +21,7 @@ export default function Userdashboard6() {
                         <div className='mb-5'><p>Logout</p></div>
                     </div>
                     <div className='col-6'>
-                        <div className='CreateForm h-75'>
+                        <div className='CreateForm '>
                             <div className='row'>
                                 <div className='col d-flex justify-content-center'>
                                     <h3 className='text-white p-4'>Saved Forms</h3>
